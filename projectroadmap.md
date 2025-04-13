@@ -1,0 +1,10 @@
+- [✓] Look for existing code that relates to Hangman
+- [✓] Evaluate the repository; is it considered "good" coding?
+- [✓] Download the repository and Pygame
+- [ ] Run the code and test it out
+- [ ] Observe what happens after running the code
+- [ ] Document any errors that occur
+- [ ] If you were able to run the code, explain how you did it
+- [ ] Analyze if the repository is well-documented (README, comments, etc.)
+- [ ] Suggest improvements if the explanation/documentation can be enhanced
+- [ ] Write clear instructions and suggest changes through the project maintaine
